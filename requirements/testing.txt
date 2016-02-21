@@ -1,2 +1,5 @@
--r base.txt
+coverage==4.0.3
+Django==1.8.9
 selenium==2.51.1
+wheel==0.26.0
+pytz=2015.7

@@ -1,15 +1,12 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
-
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Adrian Nieto -- Software Engineer -- @adrian_codes
 
 # THANKS
 
-    <name>
+    Thanks for checking out this repo.
 
 # TECHNOLOGY COLOPHON
-
+    Django
     HTML5, CSS3
     jQuery, Modernizr
